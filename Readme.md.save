@@ -1,0 +1,136 @@
+# Final_EcofrieLast login: Fri Jun 30 23:51:30 on ttys061
+    ~/Des/test/t/navigate  code .                    
+      ✔  00:05:16 
+
+    ~/Des/test/t/navigate  echo "# 
+Final_Ecofriendly" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin 
+https://github.com/manro7411/Final_Ecofriendly.git
+git push -u origin main
+hint: Using 'master' as the name for the initial branch. 
+This default branch name
+hint: is subject to change. To configure the initial branch 
+name to use in all
+hint: of your new repositories, which will suppress this 
+warning, call:
+  UW PICO 5.09                           New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                [ Read 1 line ]
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut 
+Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut 
+Text^T To Spell
+  UW PICO 5.09                    File: Readme.md            
+         Modified
+
+i# Final_Ecofriendly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             [ Unknown Command:  ]
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut 
+Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut 
+Text^T To Spell
+  UW PICO 5.09                    File: Readme.md            
+         Modified
+
+i# Final_Ecofriendly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut 
+Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut 
+Text^T To Spell
+  UW PICO 5.09                    File: Readme.md            
+         Modified
+
+# Final_Ecofriendly
+# Final_Ecofriendly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut 
+Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut 
+Text^T To Spl_Ecofriendly
